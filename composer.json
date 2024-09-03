@@ -1,10 +1,10 @@
 {
-    "name": "amirhamdy/giata-hotels-api",
+    "name": "tarekrahala/giata-hotels-api",
     "description": "this is a giata hotels api",
     "authors": [
         {
-            "name": "Amir Hamdy",
-            "email": "amirhamdy4@gmail.com"
+            "name": "Tarek Mohamed",
+            "email": "tarek.mohamed@rahala.com.sa"
         }
     ],
     "minimum-stability": "dev",
@@ -12,7 +12,7 @@
         "MIT"
     ],
     "require": {
-        "guzzlehttp/guzzle": "^6.5"
+        "guzzlehttp/guzzle": "^7.2"
     },
     "autoload": {
         "psr-4": {
@@ -20,7 +20,7 @@
         }
     },
     "suggest": {
-        "amirhamdy/giata-hotels-commands": "A package for calling Giata Hotels commands."
+        "tarekrahala/giata-hotels-commands": "A package for calling Giata Hotels commands."
     },
     "extra": {
         "laravel": {
